@@ -103,6 +103,4 @@ Revenue in this business is driven by:
 - High-performing product categories (decorative and gift items)
 - Seasonal demand during the holiday period
 
----
 
-## Project Structure
