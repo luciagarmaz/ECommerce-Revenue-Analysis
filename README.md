@@ -109,11 +109,6 @@ This project presents an end-to-end data analysis and visualization workflow usi
 
 ---
 
-##  Project Overview
-
-The goal of this project is to analyze e-commerce transactional data to uncover insights about revenue performance, customer behavior, and segmentation.
-
----
 
 ##  Tools Used
 
