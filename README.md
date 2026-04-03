@@ -103,4 +103,68 @@ Revenue in this business is driven by:
 - High-performing product categories (decorative and gift items)
 - Seasonal demand during the holiday period
 
+#  E-commerce Revenue Dashboard
+
+This project presents an end-to-end data analysis and visualization workflow using SQL and Power BI.
+
+---
+
+##  Project Overview
+
+The goal of this project is to analyze e-commerce transactional data to uncover insights about revenue performance, customer behavior, and segmentation.
+
+---
+
+##  Tools Used
+
+* SQL (data cleaning, transformation, and analysis)
+* Power BI (data visualization and dashboard creation)
+
+---
+
+##  Dashboard Features
+
+* KPI tracking (Total Revenue, Orders, Customers, AOV)
+* Revenue trends over time
+* Revenue distribution by country
+* Customer segmentation (High, Medium, Low value)
+* Interactive filters (Country, Date, Segment)
+
+---
+
+##  Dashboard Preview
+
+### Sales Overview
+
+![Sales Overview](images/sales_overview.png)
+
+### Customer Segmentation
+
+![Customer Segmentation](images/customer_segmentation.png)
+
+##  Key Insights
+
+* A large portion of customers belong to the **Low Value segment**
+* A smaller group of customers contributes significantly to total revenue
+* The **United Kingdom** generates the highest revenue
+* Revenue shows a strong upward trend over time
+
+---
+
+##  Repository Structure
+
+* `01_07_sql_files` → Data exploration and analysis queries
+* `Retail_project.pbix` → Power BI dashboard file
+* `images/` → Dashboard screenshots
+
+---
+
+##  How to Use
+
+1. Open the `.pbix` file in Power BI Desktop
+2. Explore the dashboard using interactive filters
+
+---
+
+
 
